@@ -1,0 +1,12 @@
+C:\Users\zolot\source\repos\Logging\Logging\bin\Debug\net6.0\Logging.deps.json
+C:\Users\zolot\source\repos\Logging\Logging\bin\Debug\net6.0\Logging.dll
+C:\Users\zolot\source\repos\Logging\Logging\bin\Debug\net6.0\Logging.pdb
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.csproj.AssemblyReference.cache
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.AssemblyInfoInputs.cache
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.AssemblyInfo.cs
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.csproj.CoreCompileInputs.cache
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.dll
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\refint\Logging.dll
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\Logging.pdb
+C:\Users\zolot\source\repos\Logging\Logging\obj\Debug\net6.0\ref\Logging.dll
